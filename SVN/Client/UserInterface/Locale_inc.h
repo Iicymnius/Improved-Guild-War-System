@@ -1,0 +1,3 @@
+//add;
+
+#define ENABLE_IMPROVED_GUILD_WAR_SYSTEM
